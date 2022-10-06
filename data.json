@@ -1,0 +1,11 @@
+[
+    { "id": 1, "nombre": "Barra olimpica", "precio": 20000 },
+    { "id": 2, "nombre": "Mancuernas", "precio": 5000 },
+    { "id": 3, "nombre": "Disco 10kg", "precio": 3000 },
+    { "id": 4, "nombre": "Disco 5kg", "precio": 1500 },
+    { "id": 5, "nombre": "Banda elastica", "precio": 2000 },
+    { "id": 6, "nombre": "Colchonetas", "precio": 1000 },
+    { "id": 7, "nombre": "TRX", "precio": 10000 }
+    
+
+]
